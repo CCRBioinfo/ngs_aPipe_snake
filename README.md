@@ -1,1 +1,1 @@
-# ngs_aPipe_snake_dev
+# ngs_aPipe_snake
